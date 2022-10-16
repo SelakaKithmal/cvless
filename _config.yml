@@ -1,17 +1,17 @@
 # site settings
 
-title:          cvless
-tagline:        Jekyll theme for a beautiful online CV
+title:          Selaka Nanayakkara
+tagline:        Senior Software Engineer - Insighture Technologies
 url:            https://cvless.netlify.app
 baseurl:        /
 permalink:      pretty
-repo:           https://github.com/username/username.github.io
+repo:           https://github.com/SelakaKithmal
 
 # author settings
 
 author:
-  name:         Place Holder
-  email:        username@domain.com
+  name:         Selaka Nanayakkara
+  email:        selaka.kithmal@gmail.com
 photo:          /assets/photo.jpg
 
 # build settings
